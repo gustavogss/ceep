@@ -4,7 +4,7 @@ Lista de tarefas no formato de cartões personalizados
 
 ## Tecnologias e Ferramentas utilizadas 🤖
 
--VSCODE
+- VsCode
 - ReactJS
 - JSX
 - CSS
