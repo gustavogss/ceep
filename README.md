@@ -1,6 +1,6 @@
 # Projeto 🚀
 
-Lista de tarefas no formato de Cartões personalizado 
+Lista de tarefas no formato de cartões personalizados 
 
 ## Tecnologias e Ferramentas utilizadas 🤖
 
